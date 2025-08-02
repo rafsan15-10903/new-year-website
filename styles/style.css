@@ -1,0 +1,117 @@
+
+.open-sans-x{
+  font-family: "Open Sans", sans-serif;
+}
+
+.merriweather-y{
+  font-family: "Merriweather", serif;
+}
+.a{
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-top: 30px;
+    border-radius: 16px;
+    margin-left: 140px;
+    margin-right: 139px;
+}
+.d{
+    margin-top: 140px;
+    justify-items: center;
+    position:absolute;
+    margin-left: 420px;
+}
+.b{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 200px;
+    margin-bottom: -15px;
+    opacity: 0.8;
+}
+.c{
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900px;
+}
+#a{
+    margin-left: 75px;
+}
+.e{
+color: rgb(255, 0, 0);
+font-size: 80px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+margin-left: 600px;
+margin-right: 599px;
+margin-top: 80px;
+}
+.f{
+    font-size: 20px;
+    font-weight: 500px;
+    color: rgb(255, 0, 0);
+    margin-left: 600px;
+    margin-right: 599px;
+    line-height: 29px;
+}
+.g{
+    color: rgb(7, 2, 17);
+font-size: 38px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+margin-left: 600px;
+margin-right: 599px;
+}
+.h{
+height: 500px;
+margin-top: 48px;
+margin-left: 400px;
+margin-right: 399px;
+margin-bottom: 120px;
+/* margin-right: 410px; */
+}
+.k{
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
+    border-radius: 16px;
+background-repeat: no-repeat;
+width: 1320px;
+height: 600px;
+margin-left: 140px;
+margin-right: 139px;
+}
+.k .l{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11px;
+    padding:100px;
+}
+.k .m{
+    color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+/* text-align: center; */
+position: absolute;
+/* text-align: left; */
+}
+.p{
+    padding:300px;
+    margin-left: -200px;
+}
+.n{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
