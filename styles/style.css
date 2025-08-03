@@ -226,5 +226,36 @@ letter-spacing: 0%;
     color: rgb(255, 0, 0);
 }
 .text{
-    margin-top:150px; 
+    margin-top:150px;
+    margin-left: 480px;
+    margin-right: 400px;
+}
+.pic-a{
+position: absolute;
+width: 1320px;
+height: 229px;
+left: 140px;
+right: -140px;
+top: 4458px;
+bottom: -3924.93px;
+border-radius: 16px 0px 16px 16px;
+background: rgb(255, 0, 0);
+}
+.pic-b{
+position: absolute;
+width: 674.82px;
+height: 577.96px;
+left: 200.83px;
+right: -200.83px;
+top: 4025px;
+bottom: -3925px;
+}
+.pic-c{
+position: absolute;
+width: 305.69px;
+height: 305.69px;
+left: 1114px;
+right: -99.69px;
+top: 4102px;
+bottom: -3321.62px;
 }
