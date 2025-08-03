@@ -259,3 +259,49 @@ right: -99.69px;
 top: 4102px;
 bottom: -3321.62px;
 }
+.gift1 h3{
+color: rgb(255, 0, 0);
+font-size: 24px;
+font-weight: 600;
+letter-spacing: 0%;
+}
+.gift1 h1{
+color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 900;
+line-height: 30px;
+letter-spacing: 0%;
+}
+.gift1 p{
+color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0%;
+}
+.gift1{
+    margin-top: 800px;
+    margin-left: 140px;
+}
+.gift2{
+    margin-bottom: 24px;
+    margin-top: 48px;
+    margin-left: 140px;
+    margin-right: 80px;
+}
+.gift3{
+    margin-left: 140px;
+    margin-right: 80px;
+    margin-bottom:120px;
+}
+.gift5 {
+margin-right: 24px;
+}
+ .gift6{
+    margin-right: 24px;
+ }
+ .gift7{
+    margin-right: 24px;
+ }
+ .gift8{
+    margin-right: 24px;
+}
