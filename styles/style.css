@@ -202,3 +202,29 @@ text-align: left;
 .a4 img {
 margin-top: 30px;
 }
+.text1{
+    color: rgb(7, 2, 17);
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0%;
+}
+.text2{
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0%;
+}
+.text3{
+color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0%;
+}
+.text4{
+    color: rgb(255, 0, 0);
+}
+.text{
+    margin-top:150px; 
+}
