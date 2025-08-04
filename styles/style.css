@@ -305,3 +305,145 @@ margin-right: 24px;
  .gift8{
     margin-right: 24px;
 }
+.bg{
+width: 1320px;
+height: 616px;
+left: 140px;
+right: -140px;
+top: 5990.07px;
+bottom: -5990.07px;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin-top: 250px;
+margin-bottom: 120px;
+margin-left: 140px;
+margin-right: 139px;
+}
+.bg-pic img{
+width: 150px;
+height: 150px;
+margin-left: 585px;
+margin-right:584px;
+margin-top:70px;
+/* margin-bottom:16px; */
+}
+.bg-text h1{
+color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 900;
+text-align: center;
+text-transform: capitalize;
+}
+.bg-text p{
+color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+/* line-height: 32px; */
+letter-spacing: 0%;
+text-align: center;
+padding:0px 150px;
+}
+.btn{
+ display:flex;
+ justify-content: center;
+ margin-top: 60px;
+ margin-left: 150px;
+ margin-right: 150px;
+}
+#email1
+{
+border-radius: 50px 0px 0px 50px;
+background: rgb(255, 255, 255);
+width: 448px;
+height: 72px;
+left: 476px;
+right: -476px;
+top: 6454.07px;
+bottom: -6454.07px;
+border:none;
+color: rgba(7, 2, 17, 0.3);
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+padding: 0px 50px;
+}
+#subscribe1{
+width: 210px;
+height: 72px;
+left: 914px;
+right: -914px;
+top: 6454.07px;
+bottom: -6454.07px;
+border-radius: 0px 50px 50px 0px;
+background: rgb(255, 0, 0);
+border: none;
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-transform: capitalize;
+cursor: pointer;
+}
+.f-bg1{
+    display:flex;
+    margin-left: 140px;
+}
+.f-bg4{
+    display: flex;
+    margin-left: 140px;
+}
+.f-bg2{
+    color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+margin-right: 700px;
+margin-top: 120px;
+}
+.f-bg3{
+color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 120px;
+}
+.f-bg5{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 100px;
+margin-right: 800px;;
+}
+.f-bg6{
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 100px;
+}
+.f-bg{
+background: rgb(7, 2, 17);
+/* position: absolute; */
+width: 1600px;
+height: 609px;
+left: 0;
+right: 0;
+top: 6726.07px;
+bottom: -6726.07px;
+}
+.icon{
+    text-align: center;
+}
